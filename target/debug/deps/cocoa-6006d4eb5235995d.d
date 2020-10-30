@@ -1,0 +1,12 @@
+/Users/volumental/projects/cc_gui/target/debug/deps/cocoa-6006d4eb5235995d.rmeta: /Users/volumental/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/lib.rs /Users/volumental/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/appkit.rs /Users/volumental/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/base.rs /Users/volumental/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/foundation.rs /Users/volumental/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/quartzcore.rs /Users/volumental/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/macros.rs
+
+/Users/volumental/projects/cc_gui/target/debug/deps/libcocoa-6006d4eb5235995d.rlib: /Users/volumental/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/lib.rs /Users/volumental/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/appkit.rs /Users/volumental/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/base.rs /Users/volumental/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/foundation.rs /Users/volumental/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/quartzcore.rs /Users/volumental/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/macros.rs
+
+/Users/volumental/projects/cc_gui/target/debug/deps/cocoa-6006d4eb5235995d.d: /Users/volumental/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/lib.rs /Users/volumental/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/appkit.rs /Users/volumental/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/base.rs /Users/volumental/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/foundation.rs /Users/volumental/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/quartzcore.rs /Users/volumental/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/macros.rs
+
+/Users/volumental/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/lib.rs:
+/Users/volumental/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/appkit.rs:
+/Users/volumental/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/base.rs:
+/Users/volumental/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/foundation.rs:
+/Users/volumental/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/quartzcore.rs:
+/Users/volumental/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/macros.rs:

@@ -1,0 +1,1 @@
+{"rustc":17941782008528629481,"features":"[\"sctk\", \"wayland\", \"wayland-client\", \"x11\", \"x11-dl\"]","target":10429514197457385088,"profile":6299028598154287785,"path":4728888360851887001,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/winit-d6167805ca13da03/dep-build-script-build-script-build"}}],"rustflags":[],"metadata":6762130688163527487,"config":0}
